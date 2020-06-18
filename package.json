@@ -1,0 +1,11 @@
+{
+  "name": "langs",
+  "version": "1.0.0",
+  "description": "The language code, thumbnail utility functions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

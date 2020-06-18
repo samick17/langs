@@ -1,0 +1,1912 @@
+{
+  "aa": {
+    "code": "aa",
+    "names": [
+      "Afar"
+    ],
+    "nativeNames": [
+      "Afaraf"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/aa-100"
+  },
+  "ab": {
+    "code": "ab",
+    "names": [
+      "Abkhazian"
+    ],
+    "nativeNames": [
+      "Аҧсуа"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ab-100"
+  },
+  "ae": {
+    "code": "ae",
+    "names": [
+      "Avestan"
+    ],
+    "nativeNames": [
+      "avesta"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ae-100"
+  },
+  "af": {
+    "code": "af",
+    "names": [
+      "Afrikaans"
+    ],
+    "nativeNames": [
+      "Afrikaans"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/af-100"
+  },
+  "ak": {
+    "code": "ak",
+    "names": [
+      "Akan"
+    ],
+    "nativeNames": [
+      "Akan"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ak-100"
+  },
+  "am": {
+    "code": "am",
+    "names": [
+      "Amharic"
+    ],
+    "nativeNames": [
+      "አማርኛ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/am-100"
+  },
+  "an": {
+    "code": "an",
+    "names": [
+      "Aragonese"
+    ],
+    "nativeNames": [
+      "Aragonés"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/an-100"
+  },
+  "ar": {
+    "code": "ar",
+    "names": [
+      "Arabic"
+    ],
+    "nativeNames": [
+      "العربية"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ar-100"
+  },
+  "as": {
+    "code": "as",
+    "names": [
+      "Assamese"
+    ],
+    "nativeNames": [
+      "অসমীয়া"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/as-100"
+  },
+  "av": {
+    "code": "av",
+    "names": [
+      "Avaric"
+    ],
+    "nativeNames": [
+      "авар мацӀ",
+      "магӀарул мацӀ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/av-100"
+  },
+  "ay": {
+    "code": "ay",
+    "names": [
+      "Aymara"
+    ],
+    "nativeNames": [
+      "aymar aru"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ay-100"
+  },
+  "az": {
+    "code": "az",
+    "names": [
+      "Azerbaijani"
+    ],
+    "nativeNames": [
+      "azərbaycan dili"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/az-100"
+  },
+  "ba": {
+    "code": "ba",
+    "names": [
+      "Bashkir"
+    ],
+    "nativeNames": [
+      "башҡорт теле"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ba-100"
+  },
+  "be": {
+    "code": "be",
+    "names": [
+      "Belarusian"
+    ],
+    "nativeNames": [
+      "Беларуская"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/be-100"
+  },
+  "bg": {
+    "code": "bg",
+    "names": [
+      "Bulgarian"
+    ],
+    "nativeNames": [
+      "български език"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/bg-100"
+  },
+  "bh": {
+    "code": "bh",
+    "names": [
+      "Bihari"
+    ],
+    "nativeNames": [
+      "भोजपुरी"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/bh-100"
+  },
+  "bi": {
+    "code": "bi",
+    "names": [
+      "Bislama"
+    ],
+    "nativeNames": [
+      "Bislama"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/bi-100"
+  },
+  "bm": {
+    "code": "bm",
+    "names": [
+      "Bambara"
+    ],
+    "nativeNames": [
+      "bamanankan"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/bm-100"
+  },
+  "bn": {
+    "code": "bn",
+    "names": [
+      "Bengali"
+    ],
+    "nativeNames": [
+      "বাংলা"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/bn-100"
+  },
+  "bo": {
+    "code": "bo",
+    "names": [
+      "Tibetan"
+    ],
+    "nativeNames": [
+      "བོད་ཡིག"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/bo-100"
+  },
+  "br": {
+    "code": "br",
+    "names": [
+      "Breton"
+    ],
+    "nativeNames": [
+      "brezhoneg"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/br-100"
+  },
+  "bs": {
+    "code": "bs",
+    "names": [
+      "Bosnian"
+    ],
+    "nativeNames": [
+      "bosanski jezik"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/bs-100"
+  },
+  "ca": {
+    "code": "ca",
+    "names": [
+      "Catalan",
+      "Valencian"
+    ],
+    "nativeNames": [
+      "Català"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ca-100"
+  },
+  "ce": {
+    "code": "ce",
+    "names": [
+      "Chechen"
+    ],
+    "nativeNames": [
+      "нохчийн мотт"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ce-100"
+  },
+  "ch": {
+    "code": "ch",
+    "names": [
+      "Chamorro"
+    ],
+    "nativeNames": [
+      "Chamoru"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ch-100"
+  },
+  "co": {
+    "code": "co",
+    "names": [
+      "Corsican"
+    ],
+    "nativeNames": [
+      "corsu",
+      "lingua corsa"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/co-100"
+  },
+  "cr": {
+    "code": "cr",
+    "names": [
+      "Cree"
+    ],
+    "nativeNames": [
+      "ᓀᐦᐃᔭᐍᐏᐣ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/cr-100"
+  },
+  "cs": {
+    "code": "cs",
+    "names": [
+      "Czech"
+    ],
+    "nativeNames": [
+      "česky",
+      "čeština"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/cs-100"
+  },
+  "cu": {
+    "code": "cu",
+    "names": [
+      "Church Slavic",
+      "Old Slavonic",
+      "Church Slavonic",
+      "Old Bulgarian",
+      "Old Church Slavonic"
+    ],
+    "nativeNames": [
+      "ѩзыкъ словѣньскъ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/cu-100"
+  },
+  "cv": {
+    "code": "cv",
+    "names": [
+      "Chuvash"
+    ],
+    "nativeNames": [
+      "чӑваш чӗлхи"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/cv-100"
+  },
+  "cy": {
+    "code": "cy",
+    "names": [
+      "Welsh"
+    ],
+    "nativeNames": [
+      "Cymraeg"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/cy-100"
+  },
+  "da": {
+    "code": "da",
+    "names": [
+      "Danish"
+    ],
+    "nativeNames": [
+      "dansk"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/da-100"
+  },
+  "de": {
+    "code": "de",
+    "names": [
+      "German"
+    ],
+    "nativeNames": [
+      "Deutsch"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/de-100"
+  },
+  "dv": {
+    "code": "dv",
+    "names": [
+      "Divehi",
+      "Dhivehi",
+      "Maldivian"
+    ],
+    "nativeNames": [
+      "ދިވެހި"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/dv-100"
+  },
+  "dz": {
+    "code": "dz",
+    "names": [
+      "Dzongkha"
+    ],
+    "nativeNames": [
+      "རྫོང་ཁ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/dz-100"
+  },
+  "ee": {
+    "code": "ee",
+    "names": [
+      "Ewe"
+    ],
+    "nativeNames": [
+      "Eʋegbe"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ee-100"
+  },
+  "el": {
+    "code": "el",
+    "names": [
+      "Modern Greek"
+    ],
+    "nativeNames": [
+      "Ελληνικά"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/el-100"
+  },
+  "en": {
+    "code": "en",
+    "names": [
+      "English"
+    ],
+    "nativeNames": [
+      "English"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/en-100"
+  },
+  "eo": {
+    "code": "eo",
+    "names": [
+      "Esperanto"
+    ],
+    "nativeNames": [
+      "Esperanto"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/eo-100"
+  },
+  "es": {
+    "code": "es",
+    "names": [
+      "Spanish",
+      "Castilian"
+    ],
+    "nativeNames": [
+      "español",
+      "castellano"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/es-100"
+  },
+  "et": {
+    "code": "et",
+    "names": [
+      "Estonian"
+    ],
+    "nativeNames": [
+      "eesti",
+      "eesti keel"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/et-100"
+  },
+  "eu": {
+    "code": "eu",
+    "names": [
+      "Basque"
+    ],
+    "nativeNames": [
+      "euskara",
+      "euskera"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/eu-100"
+  },
+  "fa": {
+    "code": "fa",
+    "names": [
+      "Persian"
+    ],
+    "nativeNames": [
+      "فارسی"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/fa-100"
+  },
+  "ff": {
+    "code": "ff",
+    "names": [
+      "Fulah"
+    ],
+    "nativeNames": [
+      "Fulfulde",
+      "Pulaar",
+      "Pular"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ff-100"
+  },
+  "fi": {
+    "code": "fi",
+    "names": [
+      "Finnish"
+    ],
+    "nativeNames": [
+      "suomi",
+      "suomen kieli"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/fi-100"
+  },
+  "fj": {
+    "code": "fj",
+    "names": [
+      "Fijian"
+    ],
+    "nativeNames": [
+      "vosa Vakaviti"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/fj-100"
+  },
+  "fo": {
+    "code": "fo",
+    "names": [
+      "Faroese"
+    ],
+    "nativeNames": [
+      "føroyskt"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/fo-100"
+  },
+  "fr": {
+    "code": "fr",
+    "names": [
+      "French"
+    ],
+    "nativeNames": [
+      "français",
+      "langue française"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/fr-100"
+  },
+  "fy": {
+    "code": "fy",
+    "names": [
+      "Western Frisian"
+    ],
+    "nativeNames": [
+      "Frysk"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/fy-100"
+  },
+  "ga": {
+    "code": "ga",
+    "names": [
+      "Irish"
+    ],
+    "nativeNames": [
+      "Gaeilge"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ga-100"
+  },
+  "gd": {
+    "code": "gd",
+    "names": [
+      "Gaelic",
+      "Scottish Gaelic"
+    ],
+    "nativeNames": [
+      "Gàidhlig"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/gd-100"
+  },
+  "gl": {
+    "code": "gl",
+    "names": [
+      "Galician"
+    ],
+    "nativeNames": [
+      "Galego"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/gl-100"
+  },
+  "gn": {
+    "code": "gn",
+    "names": [
+      "Guaraní"
+    ],
+    "nativeNames": [
+      "Avañe'ẽ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/gn-100"
+  },
+  "gu": {
+    "code": "gu",
+    "names": [
+      "Gujarati"
+    ],
+    "nativeNames": [
+      "ગુજરાતી"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/gu-100"
+  },
+  "gv": {
+    "code": "gv",
+    "names": [
+      "Manx"
+    ],
+    "nativeNames": [
+      "Gaelg",
+      "Gailck"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/gv-100"
+  },
+  "ha": {
+    "code": "ha",
+    "names": [
+      "Hausa"
+    ],
+    "nativeNames": [
+      "Hausa",
+      "هَوُسَ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ha-100"
+  },
+  "he": {
+    "code": "he",
+    "names": [
+      "Modern Hebrew"
+    ],
+    "nativeNames": [
+      "עברית"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/he-100"
+  },
+  "hi": {
+    "code": "hi",
+    "names": [
+      "Hindi"
+    ],
+    "nativeNames": [
+      "हिन्दी",
+      "हिंदी"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/hi-100"
+  },
+  "ho": {
+    "code": "ho",
+    "names": [
+      "Hiri Motu"
+    ],
+    "nativeNames": [
+      "Hiri Motu"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ho-100"
+  },
+  "hr": {
+    "code": "hr",
+    "names": [
+      "Croatian"
+    ],
+    "nativeNames": [
+      "hrvatski"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/hr-100"
+  },
+  "ht": {
+    "code": "ht",
+    "names": [
+      "Haitian",
+      "Haitian Creole"
+    ],
+    "nativeNames": [
+      "Kreyòl ayisyen"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ht-100"
+  },
+  "hu": {
+    "code": "hu",
+    "names": [
+      "Hungarian"
+    ],
+    "nativeNames": [
+      "Magyar"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/hu-100"
+  },
+  "hy": {
+    "code": "hy",
+    "names": [
+      "Armenian"
+    ],
+    "nativeNames": [
+      "Հայերեն"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/hy-100"
+  },
+  "hz": {
+    "code": "hz",
+    "names": [
+      "Herero"
+    ],
+    "nativeNames": [
+      "Otjiherero"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/hz-100"
+  },
+  "ia": {
+    "code": "ia",
+    "names": [
+      "Interlingua (International Auxiliary Language Association)"
+    ],
+    "nativeNames": [
+      "Interlingua"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ia-100"
+  },
+  "id": {
+    "code": "id",
+    "names": [
+      "Indonesian"
+    ],
+    "nativeNames": [
+      "Bahasa Indonesia"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/id-100"
+  },
+  "ie": {
+    "code": "ie",
+    "names": [
+      "Interlingue",
+      "Occidental"
+    ],
+    "nativeNames": [
+      "Interlingue"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ie-100"
+  },
+  "ig": {
+    "code": "ig",
+    "names": [
+      "Igbo"
+    ],
+    "nativeNames": [
+      "Igbo"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ig-100"
+  },
+  "ii": {
+    "code": "ii",
+    "names": [
+      "Sichuan Yi",
+      "Nuosu"
+    ],
+    "nativeNames": [
+      "ꆇꉙ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ii-100"
+  },
+  "ik": {
+    "code": "ik",
+    "names": [
+      "Inupiaq"
+    ],
+    "nativeNames": [
+      "Iñupiaq",
+      "Iñupiatun"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ik-100"
+  },
+  "io": {
+    "code": "io",
+    "names": [
+      "Ido"
+    ],
+    "nativeNames": [
+      "Ido"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/io-100"
+  },
+  "is": {
+    "code": "is",
+    "names": [
+      "Icelandic"
+    ],
+    "nativeNames": [
+      "Íslenska"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/is-100"
+  },
+  "it": {
+    "code": "it",
+    "names": [
+      "Italian"
+    ],
+    "nativeNames": [
+      "Italiano"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/it-100"
+  },
+  "iu": {
+    "code": "iu",
+    "names": [
+      "Inuktitut"
+    ],
+    "nativeNames": [
+      "ᐃᓄᒃᑎᑐᑦ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/iu-100"
+  },
+  "ja": {
+    "code": "ja",
+    "names": [
+      "Japanese"
+    ],
+    "nativeNames": [
+      "日本語 (にほんご／にっぽんご)"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ja-100"
+  },
+  "jv": {
+    "code": "jv",
+    "names": [
+      "Javanese"
+    ],
+    "nativeNames": [
+      "basa Jawa"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/jv-100"
+  },
+  "ka": {
+    "code": "ka",
+    "names": [
+      "Georgian"
+    ],
+    "nativeNames": [
+      "ქართული"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ka-100"
+  },
+  "kg": {
+    "code": "kg",
+    "names": [
+      "Kongo"
+    ],
+    "nativeNames": [
+      "KiKongo"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/kg-100"
+  },
+  "ki": {
+    "code": "ki",
+    "names": [
+      "Kikuyu",
+      "Gikuyu"
+    ],
+    "nativeNames": [
+      "Gĩkũyũ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ki-100"
+  },
+  "kj": {
+    "code": "kj",
+    "names": [
+      "Kwanyama",
+      "Kuanyama"
+    ],
+    "nativeNames": [
+      "Kuanyama"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/kj-100"
+  },
+  "kk": {
+    "code": "kk",
+    "names": [
+      "Kazakh"
+    ],
+    "nativeNames": [
+      "Қазақ тілі"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/kk-100"
+  },
+  "kl": {
+    "code": "kl",
+    "names": [
+      "Kalaallisut",
+      "Greenlandic"
+    ],
+    "nativeNames": [
+      "kalaallisut",
+      "kalaallit oqaasii"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/kl-100"
+  },
+  "km": {
+    "code": "km",
+    "names": [
+      "Central Khmer"
+    ],
+    "nativeNames": [
+      "ភាសាខ្មែរ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/km-100"
+  },
+  "kn": {
+    "code": "kn",
+    "names": [
+      "Kannada"
+    ],
+    "nativeNames": [
+      "ಕನ್ನಡ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/kn-100"
+  },
+  "ko": {
+    "code": "ko",
+    "names": [
+      "Korean"
+    ],
+    "nativeNames": [
+      "한국어 (韓國語)",
+      "조선말 (朝鮮語)"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ko-100"
+  },
+  "kr": {
+    "code": "kr",
+    "names": [
+      "Kanuri"
+    ],
+    "nativeNames": [
+      "Kanuri"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/kr-100"
+  },
+  "ks": {
+    "code": "ks",
+    "names": [
+      "Kashmiri"
+    ],
+    "nativeNames": [
+      "कश्मीरी",
+      "كشميري"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ks-100"
+  },
+  "ku": {
+    "code": "ku",
+    "names": [
+      "Kurdish"
+    ],
+    "nativeNames": [
+      "Kurdî",
+      "كوردی"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ku-100"
+  },
+  "kv": {
+    "code": "kv",
+    "names": [
+      "Komi"
+    ],
+    "nativeNames": [
+      "коми кыв"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/kv-100"
+  },
+  "kw": {
+    "code": "kw",
+    "names": [
+      "Cornish"
+    ],
+    "nativeNames": [
+      "Kernewek"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/kw-100"
+  },
+  "ky": {
+    "code": "ky",
+    "names": [
+      "Kirghiz",
+      "Kyrgyz"
+    ],
+    "nativeNames": [
+      "кыргыз тили"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ky-100"
+  },
+  "la": {
+    "code": "la",
+    "names": [
+      "Latin"
+    ],
+    "nativeNames": [
+      "latine",
+      "lingua latina"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/la-100"
+  },
+  "lb": {
+    "code": "lb",
+    "names": [
+      "Luxembourgish",
+      "Letzeburgesch"
+    ],
+    "nativeNames": [
+      "Lëtzebuergesch"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/lb-100"
+  },
+  "lg": {
+    "code": "lg",
+    "names": [
+      "Ganda"
+    ],
+    "nativeNames": [
+      "Luganda"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/lg-100"
+  },
+  "li": {
+    "code": "li",
+    "names": [
+      "Limburgish",
+      "Limburgan",
+      "Limburger"
+    ],
+    "nativeNames": [
+      "Limburgs"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/li-100"
+  },
+  "ln": {
+    "code": "ln",
+    "names": [
+      "Lingala"
+    ],
+    "nativeNames": [
+      "Lingála"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ln-100"
+  },
+  "lo": {
+    "code": "lo",
+    "names": [
+      "Lao"
+    ],
+    "nativeNames": [
+      "ພາສາລາວ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/lo-100"
+  },
+  "lt": {
+    "code": "lt",
+    "names": [
+      "Lithuanian"
+    ],
+    "nativeNames": [
+      "lietuvių kalba"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/lt-100"
+  },
+  "lu": {
+    "code": "lu",
+    "names": [
+      "Luba-Katanga"
+    ],
+    "nativeNames": [
+      ""
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/lu-100"
+  },
+  "lv": {
+    "code": "lv",
+    "names": [
+      "Latvian"
+    ],
+    "nativeNames": [
+      "latviešu valoda"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/lv-100"
+  },
+  "mg": {
+    "code": "mg",
+    "names": [
+      "Malagasy"
+    ],
+    "nativeNames": [
+      "Malagasy fiteny"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/mg-100"
+  },
+  "mh": {
+    "code": "mh",
+    "names": [
+      "Marshallese"
+    ],
+    "nativeNames": [
+      "Kajin M̧ajeļ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/mh-100"
+  },
+  "mi": {
+    "code": "mi",
+    "names": [
+      "Māori"
+    ],
+    "nativeNames": [
+      "te reo Māori"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/mi-100"
+  },
+  "mk": {
+    "code": "mk",
+    "names": [
+      "Macedonian"
+    ],
+    "nativeNames": [
+      "македонски јазик"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/mk-100"
+  },
+  "ml": {
+    "code": "ml",
+    "names": [
+      "Malayalam"
+    ],
+    "nativeNames": [
+      "മലയാളം"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ml-100"
+  },
+  "mn": {
+    "code": "mn",
+    "names": [
+      "Mongolian"
+    ],
+    "nativeNames": [
+      "Монгол"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/mn-100"
+  },
+  "mr": {
+    "code": "mr",
+    "names": [
+      "Marathi"
+    ],
+    "nativeNames": [
+      "मराठी"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/mr-100"
+  },
+  "ms": {
+    "code": "ms",
+    "names": [
+      "Malay"
+    ],
+    "nativeNames": [
+      "bahasa Melayu",
+      "بهاس ملايو"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ms-100"
+  },
+  "mt": {
+    "code": "mt",
+    "names": [
+      "Maltese"
+    ],
+    "nativeNames": [
+      "Malti"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/mt-100"
+  },
+  "my": {
+    "code": "my",
+    "names": [
+      "Burmese"
+    ],
+    "nativeNames": [
+      "ဗမာစာ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/my-100"
+  },
+  "na": {
+    "code": "na",
+    "names": [
+      "Nauru"
+    ],
+    "nativeNames": [
+      "Ekakairũ Naoero"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/na-100"
+  },
+  "nb": {
+    "code": "nb",
+    "names": [
+      "Norwegian Bokmål"
+    ],
+    "nativeNames": [
+      "Norsk bokmål"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/nb-100"
+  },
+  "nd": {
+    "code": "nd",
+    "names": [
+      "North Ndebele"
+    ],
+    "nativeNames": [
+      "isiNdebele"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/nd-100"
+  },
+  "ne": {
+    "code": "ne",
+    "names": [
+      "Nepali"
+    ],
+    "nativeNames": [
+      "नेपाली"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ne-100"
+  },
+  "ng": {
+    "code": "ng",
+    "names": [
+      "Ndonga"
+    ],
+    "nativeNames": [
+      "Owambo"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ng-100"
+  },
+  "nl": {
+    "code": "nl",
+    "names": [
+      "Dutch",
+      "Flemish"
+    ],
+    "nativeNames": [
+      "Nederlands",
+      "Vlaams"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/nl-100"
+  },
+  "nn": {
+    "code": "nn",
+    "names": [
+      "Norwegian Nynorsk"
+    ],
+    "nativeNames": [
+      "Norsk nynorsk"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/nn-100"
+  },
+  "no": {
+    "code": "no",
+    "names": [
+      "Norwegian"
+    ],
+    "nativeNames": [
+      "Norsk"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/no-100"
+  },
+  "nr": {
+    "code": "nr",
+    "names": [
+      "South Ndebele"
+    ],
+    "nativeNames": [
+      "isiNdebele"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/nr-100"
+  },
+  "nv": {
+    "code": "nv",
+    "names": [
+      "Navajo",
+      "Navaho"
+    ],
+    "nativeNames": [
+      "Diné bizaad",
+      "Dinékʼehǰí"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/nv-100"
+  },
+  "ny": {
+    "code": "ny",
+    "names": [
+      "Chichewa",
+      "Chewa",
+      "Nyanja"
+    ],
+    "nativeNames": [
+      "chiCheŵa",
+      "chinyanja"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ny-100"
+  },
+  "oc": {
+    "code": "oc",
+    "names": [
+      "Occitan (after 1500)"
+    ],
+    "nativeNames": [
+      "Occitan"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/oc-100"
+  },
+  "oj": {
+    "code": "oj",
+    "names": [
+      "Ojibwa"
+    ],
+    "nativeNames": [
+      "ᐊᓂᔑᓈᐯᒧᐎᓐ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/oj-100"
+  },
+  "om": {
+    "code": "om",
+    "names": [
+      "Oromo"
+    ],
+    "nativeNames": [
+      "Afaan Oromoo"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/om-100"
+  },
+  "or": {
+    "code": "or",
+    "names": [
+      "Oriya"
+    ],
+    "nativeNames": [
+      "ଓଡ଼ିଆ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/or-100"
+  },
+  "os": {
+    "code": "os",
+    "names": [
+      "Ossetian",
+      "Ossetic"
+    ],
+    "nativeNames": [
+      "Ирон æвзаг"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/os-100"
+  },
+  "pa": {
+    "code": "pa",
+    "names": [
+      "Panjabi",
+      "Punjabi"
+    ],
+    "nativeNames": [
+      "ਪੰਜਾਬੀ",
+      "پنجابی"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/pa-100"
+  },
+  "pi": {
+    "code": "pi",
+    "names": [
+      "Pāli"
+    ],
+    "nativeNames": [
+      "पाऴि"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/pi-100"
+  },
+  "pl": {
+    "code": "pl",
+    "names": [
+      "Polish"
+    ],
+    "nativeNames": [
+      "polski"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/pl-100"
+  },
+  "ps": {
+    "code": "ps",
+    "names": [
+      "Pashto",
+      "Pushto"
+    ],
+    "nativeNames": [
+      "پښتو"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ps-100"
+  },
+  "pt": {
+    "code": "pt",
+    "names": [
+      "Portuguese"
+    ],
+    "nativeNames": [
+      "Português"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/pt-100"
+  },
+  "qu": {
+    "code": "qu",
+    "names": [
+      "Quechua"
+    ],
+    "nativeNames": [
+      "Runa Simi",
+      "Kichwa"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/qu-100"
+  },
+  "rm": {
+    "code": "rm",
+    "names": [
+      "Romansh"
+    ],
+    "nativeNames": [
+      "rumantsch grischun"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/rm-100"
+  },
+  "rn": {
+    "code": "rn",
+    "names": [
+      "Rundi"
+    ],
+    "nativeNames": [
+      "kiRundi"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/rn-100"
+  },
+  "ro": {
+    "code": "ro",
+    "names": [
+      "Romanian",
+      "Moldavian",
+      "Moldovan"
+    ],
+    "nativeNames": [
+      "română"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ro-100"
+  },
+  "ru": {
+    "code": "ru",
+    "names": [
+      "Russian"
+    ],
+    "nativeNames": [
+      "Русский язык"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ru-100"
+  },
+  "rw": {
+    "code": "rw",
+    "names": [
+      "Kinyarwanda"
+    ],
+    "nativeNames": [
+      "Ikinyarwanda"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/rw-100"
+  },
+  "sa": {
+    "code": "sa",
+    "names": [
+      "Sanskrit"
+    ],
+    "nativeNames": [
+      "संस्कृतम्"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sa-100"
+  },
+  "sc": {
+    "code": "sc",
+    "names": [
+      "Sardinian"
+    ],
+    "nativeNames": [
+      "sardu"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sc-100"
+  },
+  "sd": {
+    "code": "sd",
+    "names": [
+      "Sindhi"
+    ],
+    "nativeNames": [
+      "सिन्धी",
+      "سنڌي، سندھی"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sd-100"
+  },
+  "se": {
+    "code": "se",
+    "names": [
+      "Northern Sami"
+    ],
+    "nativeNames": [
+      "Davvisámegiella"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/se-100"
+  },
+  "sg": {
+    "code": "sg",
+    "names": [
+      "Sango"
+    ],
+    "nativeNames": [
+      "yângâ tî sängö"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sg-100"
+  },
+  "si": {
+    "code": "si",
+    "names": [
+      "Sinhala",
+      "Sinhalese"
+    ],
+    "nativeNames": [
+      "සිංහල"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/si-100"
+  },
+  "sk": {
+    "code": "sk",
+    "names": [
+      "Slovak"
+    ],
+    "nativeNames": [
+      "slovenčina"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sk-100"
+  },
+  "sl": {
+    "code": "sl",
+    "names": [
+      "Slovene"
+    ],
+    "nativeNames": [
+      "slovenščina"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sl-100"
+  },
+  "sm": {
+    "code": "sm",
+    "names": [
+      "Samoan"
+    ],
+    "nativeNames": [
+      "gagana fa'a Samoa"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sm-100"
+  },
+  "sn": {
+    "code": "sn",
+    "names": [
+      "Shona"
+    ],
+    "nativeNames": [
+      "chiShona"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sn-100"
+  },
+  "so": {
+    "code": "so",
+    "names": [
+      "Somali"
+    ],
+    "nativeNames": [
+      "Soomaaliga",
+      "af Soomaali"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/so-100"
+  },
+  "sq": {
+    "code": "sq",
+    "names": [
+      "Albanian"
+    ],
+    "nativeNames": [
+      "Shqip"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sq-100"
+  },
+  "sr": {
+    "code": "sr",
+    "names": [
+      "Serbian"
+    ],
+    "nativeNames": [
+      "српски језик"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sr-100"
+  },
+  "ss": {
+    "code": "ss",
+    "names": [
+      "Swati"
+    ],
+    "nativeNames": [
+      "SiSwati"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ss-100"
+  },
+  "st": {
+    "code": "st",
+    "names": [
+      "Southern Sotho"
+    ],
+    "nativeNames": [
+      "Sesotho"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/st-100"
+  },
+  "su": {
+    "code": "su",
+    "names": [
+      "Sundanese"
+    ],
+    "nativeNames": [
+      "Basa Sunda"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/su-100"
+  },
+  "sv": {
+    "code": "sv",
+    "names": [
+      "Swedish"
+    ],
+    "nativeNames": [
+      "svenska"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sv-100"
+  },
+  "sw": {
+    "code": "sw",
+    "names": [
+      "Swahili"
+    ],
+    "nativeNames": [
+      "Kiswahili"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/sw-100"
+  },
+  "ta": {
+    "code": "ta",
+    "names": [
+      "Tamil"
+    ],
+    "nativeNames": [
+      "தமிழ்"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ta-100"
+  },
+  "te": {
+    "code": "te",
+    "names": [
+      "Telugu"
+    ],
+    "nativeNames": [
+      "తెలుగు"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/te-100"
+  },
+  "tg": {
+    "code": "tg",
+    "names": [
+      "Tajik"
+    ],
+    "nativeNames": [
+      "тоҷикӣ",
+      "toğikī",
+      "تاجیکی"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/tg-100"
+  },
+  "th": {
+    "code": "th",
+    "names": [
+      "Thai"
+    ],
+    "nativeNames": [
+      "ไทย"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/th-100"
+  },
+  "ti": {
+    "code": "ti",
+    "names": [
+      "Tigrinya"
+    ],
+    "nativeNames": [
+      "ትግርኛ"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ti-100"
+  },
+  "tk": {
+    "code": "tk",
+    "names": [
+      "Turkmen"
+    ],
+    "nativeNames": [
+      "Türkmen",
+      "Түркмен"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/tk-100"
+  },
+  "tl": {
+    "code": "tl",
+    "names": [
+      "Tagalog"
+    ],
+    "nativeNames": [
+      "Wikang Tagalog",
+      "ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/tl-100"
+  },
+  "tn": {
+    "code": "tn",
+    "names": [
+      "Tswana"
+    ],
+    "nativeNames": [
+      "Setswana"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/tn-100"
+  },
+  "to": {
+    "code": "to",
+    "names": [
+      "Tonga (Tonga Islands)"
+    ],
+    "nativeNames": [
+      "faka Tonga"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/to-100"
+  },
+  "tr": {
+    "code": "tr",
+    "names": [
+      "Turkish"
+    ],
+    "nativeNames": [
+      "Türkçe"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/tr-100"
+  },
+  "ts": {
+    "code": "ts",
+    "names": [
+      "Tsonga"
+    ],
+    "nativeNames": [
+      "Xitsonga"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ts-100"
+  },
+  "tt": {
+    "code": "tt",
+    "names": [
+      "Tatar"
+    ],
+    "nativeNames": [
+      "татарча",
+      "tatarça",
+      "تاتارچا"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/tt-100"
+  },
+  "tw": {
+    "code": "tw",
+    "names": [
+      "Twi"
+    ],
+    "nativeNames": [
+      "Twi"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/tw-100"
+  },
+  "ty": {
+    "code": "ty",
+    "names": [
+      "Tahitian"
+    ],
+    "nativeNames": [
+      "Reo Mā`ohi"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ty-100"
+  },
+  "ug": {
+    "code": "ug",
+    "names": [
+      "Uighur",
+      "Uyghur"
+    ],
+    "nativeNames": [
+      "Uyƣurqə",
+      "ئۇيغۇرچە"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ug-100"
+  },
+  "uk": {
+    "code": "uk",
+    "names": [
+      "Ukrainian"
+    ],
+    "nativeNames": [
+      "Українська"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/uk-100"
+  },
+  "ur": {
+    "code": "ur",
+    "names": [
+      "Urdu"
+    ],
+    "nativeNames": [
+      "اردو"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ur-100"
+  },
+  "uz": {
+    "code": "uz",
+    "names": [
+      "Uzbek"
+    ],
+    "nativeNames": [
+      "O'zbek",
+      "Ўзбек",
+      "أۇزبېك"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/uz-100"
+  },
+  "ve": {
+    "code": "ve",
+    "names": [
+      "Venda"
+    ],
+    "nativeNames": [
+      "Tshivenḓa"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/ve-100"
+  },
+  "vi": {
+    "code": "vi",
+    "names": [
+      "Vietnamese"
+    ],
+    "nativeNames": [
+      "Tiếng Việt"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/vi-100"
+  },
+  "vo": {
+    "code": "vo",
+    "names": [
+      "Volapük"
+    ],
+    "nativeNames": [
+      "Volapük"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/vo-100"
+  },
+  "wa": {
+    "code": "wa",
+    "names": [
+      "Walloon"
+    ],
+    "nativeNames": [
+      "Walon"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/wa-100"
+  },
+  "wo": {
+    "code": "wo",
+    "names": [
+      "Wolof"
+    ],
+    "nativeNames": [
+      "Wollof"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/wo-100"
+  },
+  "xh": {
+    "code": "xh",
+    "names": [
+      "Xhosa"
+    ],
+    "nativeNames": [
+      "isiXhosa"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/xh-100"
+  },
+  "yi": {
+    "code": "yi",
+    "names": [
+      "Yiddish"
+    ],
+    "nativeNames": [
+      "ייִדיש"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/yi-100"
+  },
+  "yo": {
+    "code": "yo",
+    "names": [
+      "Yoruba"
+    ],
+    "nativeNames": [
+      "Yorùbá"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/yo-100"
+  },
+  "za": {
+    "code": "za",
+    "names": [
+      "Zhuang",
+      "Chuang"
+    ],
+    "nativeNames": [
+      "Saɯ cueŋƅ",
+      "Saw cuengh"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/za-100"
+  },
+  "zh": {
+    "code": "zh",
+    "names": [
+      "Chinese"
+    ],
+    "nativeNames": [
+      "中文 (Zhōngwén)",
+      "汉语",
+      "漢語"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/zh-100"
+  },
+  "zu": {
+    "code": "zu",
+    "names": [
+      "Zulu"
+    ],
+    "nativeNames": [
+      "isiZulu"
+    ],
+    "thumbnail": "https://www.unknown.nu/flags/images/zu-100"
+  }
+}
